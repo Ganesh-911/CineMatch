@@ -3,8 +3,7 @@
 CineMatch is a React-based movie discovery platform that helps users find movies based on their interests, preferred genres, and language choices. The application integrates multiple TMDB APIs to provide trending movies, search functionality, trailers, ratings, and OTT availability information.
 
 ## 🚀 Live Demo
-
-Add your Vercel deployment link here:
+Live Demo:
 
 [https://your-vercel-link.vercel.app](https://cine-match-3iszjv9ao-ganesh-911s-projects.vercel.app/)
 
